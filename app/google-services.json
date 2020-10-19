@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1012617314907",
+    "firebase_url": "https://openweathermapcase.firebaseio.com",
+    "project_id": "openweathermapcase",
+    "storage_bucket": "openweathermapcase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012617314907:android:a4440f0bd5acdbe326f57e",
+        "android_client_info": {
+          "package_name": "com.example.openweathermapcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012617314907-bcg510q1grq3otrjrme8neld6mhgqdkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.openweathermapcase",
+            "certificate_hash": "e6f07f661376dbcc7743feff71f42557b0b6d54d"
+          }
+        },
+        {
+          "client_id": "1012617314907-9igi1hujoi79nkf0gciodhfrsegndq3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.openweathermapcase",
+            "certificate_hash": "41ae3cd8525a9152e95de10682ee3d71aa3c53cf"
+          }
+        },
+        {
+          "client_id": "1012617314907-cpdg4buho4hrjk2k4co3p4elfrlm2fki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKGoM9dYKAChhtvjH5HJAf8rE6otoFNWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012617314907-cpdg4buho4hrjk2k4co3p4elfrlm2fki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
